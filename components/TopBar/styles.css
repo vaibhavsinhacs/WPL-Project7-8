@@ -1,0 +1,10 @@
+.topbar-appBar{
+  height: 60;
+  justify-content: "center";
+}
+
+.version-text {
+  display: flex;
+  flex: 1.25;
+  text-align: center; /* Align version text in the center */
+}
